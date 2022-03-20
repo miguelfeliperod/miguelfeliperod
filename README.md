@@ -1,4 +1,8 @@
-### Hi there 👋
+### Miguel Felipe Rodrigues 👨‍💻
+
+Reache me here: 👇
+
+[![AltText](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-felipe-rodrigues-68b845120/)
 
 <!--
 **miguelfeliperod/miguelfeliperod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

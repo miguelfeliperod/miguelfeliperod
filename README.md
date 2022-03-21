@@ -1,6 +1,6 @@
 ### Miguel Felipe Rodrigues 👨‍💻
 
-Reache me here: 👇
+Reach me here: 👇
 
 [![AltText](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-felipe-rodrigues-68b845120/)
 

@@ -1,8 +1,16 @@
 ### Miguel Felipe Rodrigues 👨‍💻
+Mobile & Game Dev
+Hobbyist Audio Developer
+
 
 Reach me here: 👇
 
 [![AltText](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-felipe-rodrigues-68b845120/)
+
+[![AltText](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://kaelgeass.itch.io/)
+
+[![AltText](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white](https://t.co/LIwLQZjqFl)
+ 	
 
 <!--
 **miguelfeliperod/miguelfeliperod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

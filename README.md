@@ -9,7 +9,7 @@ Reach me here: 👇
 
 [![AltText](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://kaelgeass.itch.io/)
 
-[![AltText](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white](https://t.co/LIwLQZjqFl)]
+[![AltText](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/kaelzi)
  	
 
 <!--

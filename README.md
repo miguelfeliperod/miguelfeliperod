@@ -1,6 +1,10 @@
 ### Miguel Felipe Rodrigues 👨‍💻
 Mobile & Game Dev
+
+Project Manager and Agile Master
+
 Hobbyist Audio Developer
+
 
 
 Reach me here: 👇

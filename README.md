@@ -1,7 +1,7 @@
 ### Miguel Felipe Rodrigues 👨‍💻
 Mobile & Game Dev
 
-Project Manager and Agile Master
+Project Manager and Agile Master (PSM-I & SSM Certifications)
 
 Hobbyist Audio Developer
 

@@ -38,5 +38,3 @@ Here are some ideas to get you started:
 ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
 ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) 
 ![kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) 
-
-![](https://github-readme-stats.vercel.app/api?username=miguelfeliperod&count_private=true&show_icons=true&theme=tokyonight&hide=stars,prs,issues,contribs)
